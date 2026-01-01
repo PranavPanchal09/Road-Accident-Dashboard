@@ -33,6 +33,5 @@ This project analyzes road accident data using Microsoft Excel to identify trend
 - Road_Accident_Dashboard.xlsx
 - Dataset used for analysis
 
-## 📷 Dashboard Preview
-(Add screenshots of your Excel dashboard here)
+
 
